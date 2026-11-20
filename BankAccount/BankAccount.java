@@ -25,7 +25,7 @@ public class BankAccount {
             System.out.println("Balance:  " + balance);
         }
         else{
-            System.out.print("Balance not Enough!!! ");
+            System.out.println("Balance not Enough!!! ");
         }
     }
 }

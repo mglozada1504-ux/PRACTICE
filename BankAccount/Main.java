@@ -22,7 +22,7 @@ public class Main{
 
             while(true){
                 System.out.println("---MENU----");
-                System.out.println("1. Display Balance");
+                System.out.println("1.Display Balance");
                 System.out.println("2.Deposit");
                 System.out.println("3.Withdraw");
                 System.out.println("4.Exit");
